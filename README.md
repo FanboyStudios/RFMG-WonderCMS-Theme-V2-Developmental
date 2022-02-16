@@ -1,4 +1,4 @@
-# Sky (default) WonderCMS theme 2022
+# RFMG WonderCMS Theme V2 - Developmental Version
 Fully responsive.
 
 ## Preview
