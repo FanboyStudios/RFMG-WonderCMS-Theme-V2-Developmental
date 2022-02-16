@@ -2,7 +2,7 @@
     "version": 1,
     "themes": {
         "RFMG-WonderCMS-Theme-V2-Developmental-Version": {
-            "name": "RFMG WonderCMS Theme V2 - Developmental Version",
+            "name": "RFMG-WonderCMS-Theme-V2-Developmental-Version",
             "repo": "https://github.com/FanboyStudios/RFMG-WonderCMS-Theme-V2-Developmental/",
             "zip": "https://github.com/FanboyStudios/RFMG-WonderCMS-Theme-V2-Developmental/archive/refs/heads/master.zip",
             "summary": "RFMG WonderCMS Theme V2 - Developmental Version. Theme works without Bootstrap and jQuery.",
