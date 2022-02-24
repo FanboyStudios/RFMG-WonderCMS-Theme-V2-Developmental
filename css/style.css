@@ -218,7 +218,7 @@ input::-moz-focus-inner {
 		border: solid 1px !important;
 		border-color: rgba(77, 77, 112 0.15) !important;
 		border-radius: 3em;
-		color: #000032 !important;
+		color: #ffb600 !important;
 		cursor: pointer;
 		display: inline-block;
 		font-size: 0.7em;
@@ -272,7 +272,7 @@ input::-moz-focus-inner {
 			input[type="button"]:hover:active,
 			button:hover:active,
 			.button:hover:active {
-				border-color: #ffb600 !important
+				border-color: #4D4D70 !important
 			}
 				input[type="button"]:hover:active:after,
 				button:hover:active:after,
@@ -423,13 +423,13 @@ input::-moz-focus-inner {
 			text-transform: uppercase
 		}
 		#topMenu nav li.active, nav li.active a	{
-			color: #ffb600 !important
+			color: #4D4D70 !important
 		}
 			#topMenu nav .active a{
-				border-bottom: 1px solid #ffb6007d
+				border-bottom: 1px solid #4D4D70
 			}
 			#topMenu nav a:hover {
-				border-bottom: 1px solid #ffb60059
+				border-bottom: 1px solid #4D4D70
 
 			}
 			#topMenu nav a.active {
@@ -457,7 +457,7 @@ input::-moz-focus-inner {
 				margin: 0 1em 0 2em
 			}
 			#topMenu nav .active a {
-				border-bottom: 1px solid #ffb600
+				border-bottom: 1px solid #4D4D70
 			}
 			footer {
 				font-size: 1em
