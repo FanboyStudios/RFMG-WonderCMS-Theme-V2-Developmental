@@ -92,12 +92,12 @@ input::-moz-focus-inner {
 		-webkit-transition: color 0.2s ease, border-bottom-color 0.2s ease;
 		-ms-transition: color 0.2s ease, border-bottom-color 0.2s ease;
 		transition: color 0.2s ease, border-bottom-color 0.2s ease;
-		border-bottom: dotted 1px rgba(255. 182, 0, 0.35);
+		border-bottom: dotted 1px rgba(77, 77, 112 0.35);
 		color: inherit;
 		text-decoration: none
 	}
 		a:hover {
-			border-bottom: solid 1px rgba(255. 182, 0, 0.88);
+			border-bottom: solid 1px rgba(77, 77, 112 0.88);
 			color: #ffb600
 		}
 
@@ -177,7 +177,7 @@ input::-moz-focus-inner {
 	code {
 		background: rgba(255. 182, 0, 0.05);
 		border-radius: 0.25em;
-		border: solid 1px rgba(255. 182, 0, 0.15);
+		border: solid 1px rgba(77, 77, 112 0.15);
 		font-family: "Urbanist";
 		font-size: 0.9em;
 		margin: 0 0.25em;
@@ -216,9 +216,9 @@ input::-moz-focus-inner {
 		transition: border-color 0.2s ease;
 		background-color: #ffb600;
 		border: solid 1px !important;
-		border-color: rgba(255. 182, 0, 0.15) !important;
+		border-color: rgba(77, 77, 112 0.15) !important;
 		border-radius: 3em;
-		color: #393939 !important;
+		color: #000032 !important;
 		cursor: pointer;
 		display: inline-block;
 		font-size: 0.7em;
@@ -258,7 +258,7 @@ input::-moz-focus-inner {
 		input[type="button"]:hover,
 		button:hover,
 		.button:hover {
-			border-color: rgba(255. 182, 0, 0.6) !important
+			border-color: rgba(77, 77, 112 0.6) !important
 		}
 			input[type="button"]:hover:after,
 			button:hover:after,
@@ -537,7 +537,7 @@ input::-moz-focus-inner {
 	#topMenu ul li ul li {
 		clear: both;
 		text-align: left;
-		background-color: rgba(0, 0, 50, 1);
+		background-color: rgba(77, 77, 112, 1);
 		white-space: nowrap
 	}
 
