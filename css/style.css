@@ -44,7 +44,7 @@ html, body {
 	background-image: -webkit-linear-gradient(45deg, rgb(0, 0, 50) 0%, rgb(0, 0, 50) 100%);
 	min-height: 100%;
 	font-family: 'Urbanist';
-	color: #ffb600 !important
+	color: #FFB600 !important
 }
 .actions li {
 	list-style: none
@@ -92,17 +92,17 @@ input::-moz-focus-inner {
 		-webkit-transition: color 0.2s ease, border-bottom-color 0.2s ease;
 		-ms-transition: color 0.2s ease, border-bottom-color 0.2s ease;
 		transition: color 0.2s ease, border-bottom-color 0.2s ease;
-		border-bottom: dotted 1px rgba(77, 77, 112 0.35);
+		border-bottom: dotted 4px rgba(77, 77, 112 0.35);
 		color: inherit;
-		text-decoration: none
+		text-decoration: underline;
 	}
 		a:hover {
-			border-bottom: solid 1px rgba(77, 77, 112 0.88);
-			color: #ffb600
+			border-bottom: solid 4px rgba(77, 77, 112 0.88);
+			color: #FFDB80
 		}
 
 	strong, b {
-		color: #ffb600;
+		color: #FFB600;
 		font-weight: bold
 	}
 
@@ -115,7 +115,7 @@ input::-moz-focus-inner {
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #ffb600;
+		color: #FFB600;
 		font-weight: bold;
 		line-height: 1.5
 	}
@@ -177,7 +177,7 @@ input::-moz-focus-inner {
 	code {
 		background: rgba(255. 182, 0, 0.05);
 		border-radius: 0.25em;
-		border: solid 1px rgba(77, 77, 112 0.15);
+		border: solid 4px rgba(77, 77, 112 0.15);
 		font-family: "Urbanist";
 		font-size: 0.9em;
 		margin: 0 0.25em;
@@ -214,11 +214,11 @@ input::-moz-focus-inner {
 		-webkit-transition: border-color 0.2s ease;
 		-ms-transition: border-color 0.2s ease;
 		transition: border-color 0.2s ease;
-		background-color: #ffb600;
-		border: solid 1px !important;
-		border-color: rgba(77, 77, 112 0.15) !important;
+		background-color: #FFB600;
+		border: solid 4px !important;
+		border-color: rgba(0, 0, 32, 1) !important;
 		border-radius: 3em;
-		color: #ffb600 !important;
+		color: #000032 !important;
 		cursor: pointer;
 		display: inline-block;
 		font-size: 0.7em;
@@ -245,7 +245,7 @@ input::-moz-focus-inner {
 			-webkit-transition: opacity 0.2s ease, -webkit-transform 0.2s ease;
 			-ms-transition: opacity 0.2s ease, -ms-transform 0.2s ease;
 			transition: opacity 0.2s ease, transform 0.2s ease;
-			background: #ffb600;
+			background: #FFB600;
 			border-radius: 3em;
 			content: '';
 			height: 100%;
@@ -423,17 +423,17 @@ input::-moz-focus-inner {
 			text-transform: uppercase
 		}
 		#topMenu nav li.active, nav li.active a	{
-			color: #4D4D70 !important
+			color: #FFDB80 !important
 		}
 			#topMenu nav .active a{
-				border-bottom: 1px solid #4D4D70
+				border-bottom: 4px solid #FFDB80
 			}
 			#topMenu nav a:hover {
-				border-bottom: 1px solid #4D4D70
+				border-bottom: 4px solid #FFDB80
 
 			}
 			#topMenu nav a.active {
-				color: #ffb600
+				color: #FFB600
 			}
 				#topMenu nav a.active:after {
 					max-width: 100%
@@ -444,7 +444,7 @@ input::-moz-focus-inner {
 				height: auto;
 				font-size: 0.94em;
 				position: relative;
-				background-color: rgba(0, 0, 50, 0.30);
+				background-color: rgba(255, 182, 0, 0.30);
 				padding-bottom: 20px
 			}
 			#topMenu nav ul {
@@ -457,7 +457,7 @@ input::-moz-focus-inner {
 				margin: 0 1em 0 2em
 			}
 			#topMenu nav .active a {
-				border-bottom: 1px solid #4D4D70
+				border-bottom: 4px solid #4D4D70
 			}
 			footer {
 				font-size: 1em
@@ -490,7 +490,7 @@ input::-moz-focus-inner {
 	}
 
 	.subPageDropdown li {
-		color: #ffb600;
+		color: #FFB600;
 		display: block;
 		float: left;
 		position: relative;
