@@ -66,7 +66,7 @@ input::-moz-focus-inner {
 
 /* Type */
 	body, select, textarea {
-		color: rgba(255. 182, 0, 0.8);
+		color: rgba(255, 182, 0, 0.8);
 		font-size: 16.5pt;
 		font-weight: normal;
 		line-height: 1.75
@@ -92,12 +92,12 @@ input::-moz-focus-inner {
 		-webkit-transition: color 0.2s ease, border-bottom-color 0.2s ease;
 		-ms-transition: color 0.2s ease, border-bottom-color 0.2s ease;
 		transition: color 0.2s ease, border-bottom-color 0.2s ease;
-		border-bottom: dotted 4px rgba(77, 77, 112 0.35);
+		border-bottom: dotted 4px rgba(77, 77, 112, 0.35);
 		color: inherit;
 		text-decoration: underline;
 	}
 		a:hover {
-			border-bottom: solid 4px rgba(77, 77, 112 0.88);
+			border-bottom: solid 4px rgba(77, 77, 112, 0.88);
 			color: #FFDB80
 		}
 
@@ -175,9 +175,9 @@ input::-moz-focus-inner {
 	}
 
 	code {
-		background: rgba(255. 182, 0, 0.05);
+		background: rgba(255, 182, 0, 0.05);
 		border-radius: 0.25em;
-		border: solid 4px rgba(77, 77, 112 0.15);
+		border: solid 4px rgba(77, 77, 112, 0.15);
 		font-family: "Urbanist";
 		font-size: 0.9em;
 		margin: 0 0.25em;
@@ -258,7 +258,7 @@ input::-moz-focus-inner {
 		input[type="button"]:hover,
 		button:hover,
 		.button:hover {
-			border-color: rgba(77, 77, 112 0.6) !important
+			border-color: rgba(77, 77, 112, 0.6) !important
 		}
 			input[type="button"]:hover:after,
 			button:hover:after,
@@ -500,7 +500,7 @@ input::-moz-focus-inner {
 	}
 
 	#topMenu li a {
-		color: rgba(255. 182, 0, 1)
+		color: rgba(255, 182, 0, 1)
 	}
 
 	#topMenu li:hover,
